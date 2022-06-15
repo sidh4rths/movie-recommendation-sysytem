@@ -1,3 +1,3 @@
-## Movie Recommendation Sysytem
-# A Machine Learning Application to recomend movies.
+# Movie Recommendation Sysytem
+## A Machine Learning Application to recomend movies.
 Ever since the pandemic the consumption of movies and web series from various OTT platforms have increased by an excessive amount. The algorithms in these apps are accurate only to a small percentage. These algorithms are manipulated by the OTT platform to promote movies which are sponsored by them, so that they can get more views for it and make more money. There is a chance the recommendations might be good but there is a high chance the viewer won't like it. This problem motivated us in making an unadulterated recommendation system so that the viewer can have a better experience.
